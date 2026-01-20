@@ -1,6 +1,6 @@
 # Base Image
 # Official lightweight Node.js image
-FROM node:18-alpine
+FROM node:18
 
 # Set working directory
 WORKDIR /app
